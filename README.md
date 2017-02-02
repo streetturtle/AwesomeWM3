@@ -15,9 +15,9 @@ Note that these widgets work with Awesome WM 3.5 version. I'm currently migratin
 
 This widget consists of
 
- - an icon which shows the battery status: ![Battery Widget](https://raw.githubusercontent.com/streetturtle/AwesomeWM/master/BatteryWidget/batWid1.png)
- - a pop-up window, which shows up when you hover over it: ![Battery Widget](https://raw.githubusercontent.com/streetturtle/AwesomeWM/master/BatteryWidget/batWid2.png)
- - a pop-up warning message which appears when battery level is less that 15%: ![Battery Widget](https://raw.githubusercontent.com/streetturtle/AwesomeWM/master/BatteryWidget/batWid3.png)
+ - an icon which shows the battery status: ![Battery Widget](https://raw.githubusercontent.com/streetturtle/AwesomeWM3/master/BatteryWidget/batWid1.png)
+ - a pop-up window, which shows up when you hover over it: ![Battery Widget](https://raw.githubusercontent.com/streetturtle/AwesomeWM3/master/BatteryWidget/batWid2.png)
+ - a pop-up warning message which appears when battery level is less that 15%: ![Battery Widget](https://raw.githubusercontent.com/streetturtle/AwesomeWM3/master/BatteryWidget/batWid3.png)
 
 **Installation**
 
