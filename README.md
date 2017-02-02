@@ -72,7 +72,7 @@ Note that getting number of unread emails could take some time, so instead of `p
 
 ## Mouse Battery Widget
 
-This widget shows the battery status of wireless mouse: ![screenshot](https://raw.githubusercontent.com/streetturtle/AwesomeWM/master/MouseBatteryWidget/mouse-battery.png)
+This widget shows the battery status of wireless mouse: ![screenshot](https://raw.githubusercontent.com/streetturtle/AwesomeWM3/master/MouseBatteryWidget/mouse-battery.png)
 
  Include `mouse-battery` and add battery widget to your wibox in rc.lua (you can use both icon and text, or any of them separately):
 
@@ -99,7 +99,7 @@ More about this widget in this two posts:
 ## Spotify widget
 
 Widget displaying currently playing song by Spotify application:
-![screenshot](https://raw.githubusercontent.com/streetturtle/AwesomeWM/master/Spotify/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/streetturtle/AwesomeWM3/master/Spotify/screenshot.png)
 
 You can read more about spotify integration in this blog [post](http://pavelmakhov.com/2016/02/awesome-wm-spotify).
 
@@ -108,7 +108,7 @@ You can read more about spotify integration in this blog [post](http://pavelmakh
 ## Volume control widget
 
 Simple and easy-to-install widget for Awesome Window Manager.
-This widget represents the sound level: ![Volume Wiget](https://github.com/streetturtle/AwesomeWM/raw/master/VolumeWidget/volWid.png)
+This widget represents the sound level: ![Volume Wiget](https://github.com/streetturtle/AwesomeWM3/raw/master/VolumeWidget/volWid.png)
 
 **Installation**
 
