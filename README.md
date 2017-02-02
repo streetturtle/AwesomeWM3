@@ -41,12 +41,12 @@ right_layout:add(batteryIcon)
 
 ## Email widget
 
-This widget consists of an icon with counter which shows number of unread emails: ![email icon](https://raw.githubusercontent.com/streetturtle/AwesomeWM/master/EmailWidget/emailWidgetScrnsht.png)
-and a popup message which appears when mouse hovers over an icon: ![email popup](https://raw.githubusercontent.com/streetturtle/AwesomeWM/master/EmailWidget/emailWidgetScrnsht2.png)
+This widget consists of an icon with counter which shows number of unread emails: ![email icon](https://raw.githubusercontent.com/streetturtle/AwesomeWM3/master/EmailWidget/emailWidgetScrnsht.png)
+and a popup message which appears when mouse hovers over an icon: ![email popup](https://raw.githubusercontent.com/streetturtle/AwesomeWM3/master/EmailWidget/emailWidgetScrnsht2.png)
 
 **Installation**
 
-To install it either clone [EmailWidget](https://github.com/streetturtle/AwesomeWM/tree/master/EmailWidget) project under `~/.config/awesome/` or download a .zip archive and unzip it there.
+To install it either clone [EmailWidget](https://github.com/streetturtle/AwesomeWM3/tree/master/EmailWidget) project under `~/.config/awesome/` or download a .zip archive and unzip it there.
 
 After provide your credentials in python scripts so that they could connect to server and add following lines in your **rc.lua** file:
 
