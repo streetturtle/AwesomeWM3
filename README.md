@@ -2,14 +2,14 @@
 
 Set of simple widgets for Awesome Window Manager consists of following widgets:
 
- - [Battery Widget](https://github.com/streetturtle/AwesomeWM#battery-widget)
- - [Email Widget](https://github.com/streetturtle/AwesomeWM#email-widget)
- - [Mouse Battery Widget](https://github.com/streetturtle/AwesomeWM#mouse-battery-widget)
- - [Rates Widget](https://github.com/streetturtle/AwesomeWM#rates-widget)
- - [Spotify Widget](https://github.com/streetturtle/AwesomeWM#spotify-widget)
- - [Volume Control Widget](https://github.com/streetturtle/AwesomeWM#volume-control-widget)
+ - [Battery Widget](https://github.com/streetturtle/AwesomeWM3#battery-widget)
+ - [Email Widget](https://github.com/streetturtle/AwesomeWM3#email-widget)
+ - [Mouse Battery Widget](https://github.com/streetturtle/AwesomeWM3#mouse-battery-widget)
+ - [Rates Widget](https://github.com/streetturtle/AwesomeWM3#rates-widget)
+ - [Spotify Widget](https://github.com/streetturtle/AwesomeWM3#spotify-widget)
+ - [Volume Control Widget](https://github.com/streetturtle/AwesomeWM3#volume-control-widget)
 
-Note that these widgets work with Awesome WM 3.5 version. I'm currently migrating them to 4.0.
+Note that these widgets work with **Awesome WM 3.5 version**. I'm currently migrating them to 4.0.
 
 ## Battery widget
 
